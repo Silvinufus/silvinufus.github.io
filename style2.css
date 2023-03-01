@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+    margin: 50px;
+}
+
+h4{
+    color: pink;
+}
+
+a{
+    color: pink;
+    margin: right 5px; 
+}
+
+.active{
+    color: pink;
+}
+
+h1{
+    color: pink;
+    background-color: black;
+}

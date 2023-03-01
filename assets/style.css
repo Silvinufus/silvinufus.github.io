@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+    margin: 50px;
+}
+
+h1{
+    color: blue;
+}
+
+a{
+    color: white;
+    margin-right: 5px;
+}
+
+.active{
+    color: orange;
+}
